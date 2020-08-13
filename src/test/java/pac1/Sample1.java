@@ -19,5 +19,6 @@ public class Sample1 {
 		}
 		System.out.println(s2);
 	}
+	
 
 }
